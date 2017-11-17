@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CTC"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="/ExtJars/joda-time-2.2/joda-time-2.2.jar" sourcepath="/ExtJars/joda-time-2.2/joda-time-2.2-sources.jar"/>
+	<classpathentry kind="lib" path="/ExtJars/mail.jar"/>
+	<classpathentry kind="lib" path="/PetsitterPlus/WebContent/WEB-INF/lib/petsitters.jar"/>
+	<classpathentry kind="lib" path="/ExtJars/re2j-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
